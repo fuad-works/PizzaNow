@@ -4,7 +4,6 @@ Pizza ordering and delivery app (Laravel &amp; Android Java)
 ![S1](./PizzaNow.gif "screenshot")<br />
 
 
-t
 ## run the APP
 - first host the WebServer to your server, create a new DataBase using mysql, and import DataBase.sql to it.
 - Set your DataBase credentials  to the file ".env"
